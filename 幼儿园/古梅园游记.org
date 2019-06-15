@@ -10,9 +10,14 @@
 
 我们一起玩了小游戏，开了小火车，跟鸭子比了赛，还磨了红枣糯。Baby玩的很High
 
-[[https://raw.githubusercontent.com/lujun9972/baby/source/幼儿园/images/古梅园1.jpg]]
-[[https://raw.githubusercontent.com/lujun9972/baby/source/幼儿园/images/古梅园2.jpg]]
-[[https://raw.githubusercontent.com/lujun9972/baby/source/幼儿园/images/古梅园3.jpg]]
-[[https://raw.githubusercontent.com/lujun9972/baby/source/幼儿园/images/古梅园4.jpg]]
-[[https://raw.githubusercontent.com/lujun9972/baby/source/幼儿园/images/古梅园5.jpg]]
-[[https://raw.githubusercontent.com/lujun9972/baby/source/幼儿园/images/古梅园6.jpg]]
+[[https://raw.githubusercontent.com/lujun9972/baby/master/幼儿园/images/古梅园1.jpg]]
+
+[[https://raw.githubusercontent.com/lujun9972/baby/master/幼儿园/images/古梅园2.jpg]]
+
+[[https://raw.githubusercontent.com/lujun9972/baby/master/幼儿园/images/古梅园3.jpg]]
+
+[[https://raw.githubusercontent.com/lujun9972/baby/master/幼儿园/images/古梅园4.jpg]]
+
+[[https://raw.githubusercontent.com/lujun9972/baby/master/幼儿园/images/古梅园5.jpg]]
+
+[[https://raw.githubusercontent.com/lujun9972/baby/master/幼儿园/images/古梅园6.jpg]]
