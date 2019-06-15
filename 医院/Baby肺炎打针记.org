@@ -1,0 +1,21 @@
+#+BLOG: baby.lujun9972.win
+#+POSTID: 55
+#+TITLE: Baby肺炎打针记
+#+AUTHOR: lujun9972
+#+TAGS: 医院
+#+DATE: [2019-04-27 09:44]
+#+LANGUAGE:  zh-CN
+#+STARTUP:  inlineimages
+#+OPTIONS:  H:6 num:nil toc:t \n:nil ::t |:t ^:nil -:nil f:t *:t <:nil
+
+Baby最近染上肺炎了，需要打针。不知道为什么之前Baby根本不怕打针的，现在开始惧怕打针了。
+
+惧怕打针也没什么，关键是他在还没打针的时候哭的半死，在真正打针的时候却没点反应，真是让人难以理解了......
+
+打针前:
+
+[[https://raw.githubusercontent.com/lujun9972/baby/master/医院/Images/Baby打针记1.mp4]]
+  
+打针中:
+
+[[https://raw.githubusercontent.com/lujun9972/baby/master/医院/Images/Baby打针记2.mp4]]
