@@ -1,0 +1,18 @@
+#+TITLE: 古梅园游记
+#+AUTHOR: lujun9972
+#+TAGS: 幼儿园
+#+DATE: [2019-06-15 六 23:17]
+#+LANGUAGE:  zh-CN
+#+STARTUP:  inlineimages
+#+OPTIONS:  H:6 num:nil toc:t \n:nil ::t |:t ^:nil -:nil f:t *:t <:nil
+
+今天幼儿园组织家长跟小朋友去古梅园农场玩。
+
+我们一起玩了小游戏，开了小火车，跟鸭子比了赛，还磨了红枣糯。Baby玩的很High
+
+[[https://raw.githubusercontent.com/lujun9972/baby/source/幼儿园/images/古梅园1.jpg]]
+[[https://raw.githubusercontent.com/lujun9972/baby/source/幼儿园/images/古梅园2.jpg]]
+[[https://raw.githubusercontent.com/lujun9972/baby/source/幼儿园/images/古梅园3.jpg]]
+[[https://raw.githubusercontent.com/lujun9972/baby/source/幼儿园/images/古梅园4.jpg]]
+[[https://raw.githubusercontent.com/lujun9972/baby/source/幼儿园/images/古梅园5.jpg]]
+[[https://raw.githubusercontent.com/lujun9972/baby/source/幼儿园/images/古梅园6.jpg]]
