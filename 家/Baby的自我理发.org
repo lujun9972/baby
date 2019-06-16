@@ -1,0 +1,15 @@
+#+BLOG: baby.lujun9972.win
+#+POSTID: 62
+#+TITLE: Baby的自我理发
+#+AUTHOR: lujun9972
+#+TAGS: 家
+#+DATE: [2019-05-05 23:16]
+#+LANGUAGE:  zh-CN
+#+STARTUP:  inlineimages
+#+OPTIONS:  H:6 num:nil toc:t \n:nil ::t |:t ^:nil -:nil f:t *:t <:nil
+
+一个牛逼的理发师一定要能给自己理发~~
+
+#+begin_export html
+<video class="wp-video-shortcode" width="640" height="360" preload="metadata" controls="controls"><source type="video/mp4" src="https://raw.githubusercontent.com/lujun9972/baby/master/家/images/Baby的自我理发.mp4" /></video>
+#+end_export
