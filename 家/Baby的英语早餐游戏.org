@@ -1,0 +1,15 @@
+#+BLOG: baby.lujun9972.win
+#+POSTID: 64
+#+TITLE: Baby的英语早餐游戏
+#+AUTHOR: lujun9972
+#+TAGS: 家
+#+DATE: [2019-06-16 日 23:22]
+#+LANGUAGE:  zh-CN
+#+STARTUP:  inlineimages
+#+OPTIONS:  H:6 num:nil toc:t \n:nil ::t |:t ^:nil -:nil f:t *:t <:nil
+
+用游戏的方式教Baby英文，爷爷好样的！
+
+#+begin_export html
+<video class="wp-video-shortcode" width="640" height="360" preload="metadata" controls="controls"><source type="video/mp4" src="https://raw.githubusercontent.com/lujun9972/baby/master/家/images/Baby的英语早餐游戏.mp4" /></video>
+#+end_export
