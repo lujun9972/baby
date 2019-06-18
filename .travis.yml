@@ -1,0 +1,37 @@
+dist: xenial
+language: generic
+
+branches:
+  only:
+    - master
+
+git:
+  depth: false
+  quiet: true
+
+before_install:
+ - git config --global core.quotepath false
+ - git config --global user.email "lujun9972@gmail.com"
+ - git config --global user.name "darksun"
+ - git clone https://github.com/lujun9972/EGO ~/EGO
+ - sudo add-apt-repository ppa:ubuntu-elisp/ppa -y
+ - sudo apt-get update
+ - sudo apt-get install emacs-snapshot -y
+ - emacs-snapshot --version
+ 
+script:
+- export REPO=$(git remote -v |grep fetch |head -n 1|awk '{print $2}')
+- git clone -b master ${REPO} ~/source
+- git clone -b gh-pages ${REPO} ~/web
+- emacs-snapshot --batch -l ./auto_publish.el 
+
+deploy:
+  provider: pages
+  skip_cleanup: true
+  keep_history: true
+  github_token: $GITHUB_TOKEN
+  local_dir: /home/travis/web
+  target_branch: gh-pages
+  on:
+    branch:
+      - master
