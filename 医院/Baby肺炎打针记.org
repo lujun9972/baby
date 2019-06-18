@@ -14,8 +14,13 @@ Baby最近染上肺炎了，需要打针。不知道为什么之前Baby根本不
 
 打针前:
 
-[[https://raw.githubusercontent.com/lujun9972/baby/master/医院/Images/Baby打针记1.mp4]]
+#+begin_export html
+  <video class="wp-video-shortcode" width="640" height="360" preload="metadata" controls="controls"><source type="video/mp4" src="https://raw.githubusercontent.com/lujun9972/baby/master/医院/Images/Baby打针记1.mp4" /><a href="https://raw.githubusercontent.com/lujun9972/baby/master/医院/Images/Baby打针记1.mp4">https://raw.githubusercontent.com/lujun9972/baby/master/医院/Images/Baby打针记1.mp4</a></video>
+#+end_export
+
   
 打针中:
 
-[[https://raw.githubusercontent.com/lujun9972/baby/master/医院/Images/Baby打针记2.mp4]]
+#+begin_export html
+  <video class="wp-video-shortcode" width="640" height="360" preload="metadata" controls="controls"><source type="video/mp4" src="https://raw.githubusercontent.com/lujun9972/baby/master/医院/Images/Baby打针记2.mp4" /><a href="https://raw.githubusercontent.com/lujun9972/baby/master/医院/Images/Baby打针记2.mp4">https://raw.githubusercontent.com/lujun9972/baby/master/医院/Images/Baby打针记2.mp4</a></video>
+#+end_export

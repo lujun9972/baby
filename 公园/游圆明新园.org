@@ -16,7 +16,10 @@
 
 [[https://raw.githubusercontent.com/lujun9972/baby/master/公园/images/游圆明新园3.jpg]]
 
-[[https://raw.githubusercontent.com/lujun9972/baby/master/公园/images/游圆明新园.mp4]]
+
+#+begin_export html
+  <video class="wp-video-shortcode" width="640" height="360" preload="metadata" controls="controls"><source type="video/mp4" src="https://raw.githubusercontent.com/lujun9972/baby/master/公园/images/游圆明新园.mp4" /><a href="https://raw.githubusercontent.com/lujun9972/baby/master/公园/images/游圆明新园.mp4">https://raw.githubusercontent.com/lujun9972/baby/master/公园/images/游圆明新园.mp4</a></video>
+#+end_export
 
 最后来张老爸的 *王之审判*
 

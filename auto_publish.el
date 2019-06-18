@@ -31,10 +31,9 @@ There are two things you can do about this warning:
          :site-sub-title "=============>记录带娃的日常生活"
          :repository-org-branch "master"
          :repository-html-branch "gh-pages"
-         :theme (default)
+         :theme (worg)
          :summary
          (("years" :year :updates 10)
-          ("authors" :authors)
           ("tags" :tags))
          :source-browse-url
          ("Github" ,(getenv "REPO"))
@@ -46,4 +45,4 @@ There are two things you can do about this warning:
 (setq org-export-use-babel nil)
 (setq debug-on-error t)
 (setq org-src-fontify-natively t)
-(ego-do-publication "emacs-document" t nil nil)
+(ego-do-publication "emacs-document" nil nil nil)

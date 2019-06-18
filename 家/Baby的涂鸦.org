@@ -18,4 +18,7 @@
 
 [[https://raw.githubusercontent.com/lujun9972/baby/master/家/images/Baby的涂鸦4.jpg]]
 
-[[https://raw.githubusercontent.com/lujun9972/baby/master/家/images/Baby的涂鸦.mp4]]
+
+#+begin_export html
+  <video class="wp-video-shortcode" width="640" height="360" preload="metadata" controls="controls"><source type="video/mp4" src="https://raw.githubusercontent.com/lujun9972/baby/master/家/images/Baby的涂鸦.mp4" /><a href="https://raw.githubusercontent.com/lujun9972/baby/master/家/images/Baby的涂鸦.mp4">https://raw.githubusercontent.com/lujun9972/baby/master/家/images/Baby的涂鸦.mp4</a></video>
+#+end_export
