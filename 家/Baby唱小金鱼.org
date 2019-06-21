@@ -1,0 +1,24 @@
+#+BLOG: baby.lujun9972.win
+#+POSTID: 67
+#+TITLE: Baby唱小金鱼
+#+AUTHOR: lujun9972
+#+TAGS: 家
+#+DATE: [2019-06-21 五 21:48]
+#+LANGUAGE:  zh-CN
+#+STARTUP:  inlineimages
+#+OPTIONS:  H:6 num:nil toc:t \n:nil ::t |:t ^:nil -:nil f:t *:t <:nil
+
+#+begin_export html
+<video class="wp-video-shortcode" width="640" height="360" preload="metadata" controls="controls"><source type="video/mp4" src="https://raw.githubusercontent.com/lujun9972/baby/master/家/images/Baby唱小金鱼.mp4" /></video>
+#+end_export
+
+#+begin_example
+  我是小金鱼
+  住在池塘里
+  游过来游过去
+  总是不适宜
+  努力游努力游
+  游过了小河
+  一天又一天
+  到了大海边
+#+end_example
