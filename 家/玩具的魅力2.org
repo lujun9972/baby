@@ -1,0 +1,17 @@
+#+BLOG: baby.lujun9972.win
+#+POSTID: 69
+#+TITLE: 玩具的魅力2
+#+AUTHOR: lujun9972
+#+TAGS: 家
+#+DATE: [2019-06-21 五 22:06]
+#+LANGUAGE:  zh-CN
+#+STARTUP:  inlineimages
+#+OPTIONS:  H:6 num:nil toc:t \n:nil ::t |:t ^:nil -:nil f:t *:t <:nil
+
+今天Baby又带了一堆怪兽玩具去东门玩，果然又集聚了一堆小朋友一起玩。还遇到两个小哥哥，都是凯旋城幼儿园的，而且都是在长颈鹿美语学英语的。
+
+#+begin_export html
+<video class="wp-video-shortcode" width="640" height="360" preload="metadata" controls="controls"><source type="video/mp4" src="https://raw.githubusercontent.com/lujun9972/baby/master/家/images/玩具的魅力2_1.mp4" /></video>
+#+end_export
+
+[[https://raw.githubusercontent.com/lujun9972/baby/master/家/images/玩具的魅力2_1.jpg]]
