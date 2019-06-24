@@ -1,4 +1,5 @@
-#+POSTID: 73
+#+BLOG: baby.lujun9972.win
+#+POSTID: 80
 #+TITLE: 功夫小子
 #+AUTHOR: lujun9972
 #+TAGS: 幼儿园
