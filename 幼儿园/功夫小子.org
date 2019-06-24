@@ -1,0 +1,13 @@
+#+POSTID: 73
+#+TITLE: 功夫小子
+#+AUTHOR: lujun9972
+#+TAGS: 幼儿园
+#+DATE: [2019-06-24 一 22:51]
+#+LANGUAGE:  zh-CN
+#+STARTUP:  inlineimages
+#+OPTIONS:  H:6 num:nil toc:t \n:nil ::t |:t ^:nil -:nil f:t *:t <:nil
+
+
+#+begin_export html
+  <video class="wp-video-shortcode" width="640" height="360" preload="metadata" controls="controls"><source type="video/mp4" src="https://raw.githubusercontent.com/lujun9972/baby/master/幼儿园/images/功夫小子.mp4" /><a href="https://raw.githubusercontent.com/lujun9972/baby/master/幼儿园/images/功夫小子.mp4">https://raw.githubusercontent.com/lujun9972/baby/master/幼儿园/images/功夫小子.mp4</a></video>
+#+end_export
