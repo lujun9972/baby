@@ -1,0 +1,18 @@
+#+TITLE: Baby的积木秀
+#+AUTHOR: lujun9972
+#+TAGS: 家
+#+DATE: [2019-07-28 日 22:14]
+#+LANGUAGE:  zh-CN
+#+STARTUP:  inlineimages
+#+OPTIONS:  H:6 num:nil toc:t \n:nil ::t |:t ^:nil -:nil f:t *:t <:nil
+
+没想到Baby能够用积木拼出这么多花样来。
+
+铁人：
+[[https://raw.githubusercontent.com/lujun9972/baby/master/家/images/Baby的积木秀之铁人.jpg]]
+
+卢字：
+[[https://raw.githubusercontent.com/lujun9972/baby/master/家/images/Baby的积木秀之卢.jpg]]
+
+小字：
+[[https://raw.githubusercontent.com/lujun9972/baby/master/家/images/Baby的积木秀之小.jpg]]
