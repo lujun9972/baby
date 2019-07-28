@@ -1,0 +1,9 @@
+#+TITLE: 宝宝耶，我洗好碗了
+#+AUTHOR: lujun9972
+#+TAGS: 家
+#+DATE: [2019-07-25 四 22:19]
+#+LANGUAGE:  zh-CN
+#+STARTUP:  inlineimages
+#+OPTIONS:  H:6 num:nil toc:t \n:nil ::t |:t ^:nil -:nil f:t *:t <:nil
+
+[[https://raw.githubusercontent.com/lujun9972/baby/master/家/images/Baby耶，我洗好碗了.mp4]]
