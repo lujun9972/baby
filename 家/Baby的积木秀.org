@@ -1,3 +1,5 @@
+#+BLOG: baby.lujun9972.win
+#+POSTID: 89
 #+TITLE: Baby的积木秀
 #+AUTHOR: lujun9972
 #+TAGS: 家

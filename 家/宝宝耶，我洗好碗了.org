@@ -1,3 +1,5 @@
+#+BLOG: baby.lujun9972.win
+#+POSTID: 86
 #+TITLE: 宝宝耶，我洗好碗了
 #+AUTHOR: lujun9972
 #+TAGS: 家
@@ -6,4 +8,7 @@
 #+STARTUP:  inlineimages
 #+OPTIONS:  H:6 num:nil toc:t \n:nil ::t |:t ^:nil -:nil f:t *:t <:nil
 
-[[https://raw.githubusercontent.com/lujun9972/baby/master/家/images/Baby耶，我洗好碗了.mp4]]
+#+begin_export html
+<video class="wp-video-shortcode" width="640" height="360" preload="metadata" controls="controls"><source type="video/mp4" src="https://raw.githubusercontent.com/lujun9972/baby/master/家/images/Baby耶，我洗好碗了.mp4" /></video>
+#+end_export
+
