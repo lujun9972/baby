@@ -1,0 +1,16 @@
+#+TITLE: Baby唱母亲
+#+AUTHOR: lujun9972
+#+TAGS: 家
+#+DATE: [2019-08-24 六 21:41]
+#+LANGUAGE:  zh-CN
+#+STARTUP:  inlineimages
+#+OPTIONS:  H:6 num:nil toc:t \n:nil ::t |:t ^:nil -:nil f:t *:t <:nil
+
+今天也不知道怎么了，洗完澡后，Baby突然开始唱《母亲》这首歌了？？
+
+#+begin_export html
+<video class="wp-video-shortcode" width="640" height="360" preload="metadata" controls="controls"><source type="video/mp4" src="https://raw.githubusercontent.com/lujun9972/baby/master/家/images/Baby唱母亲1.mp4" /></video>
+<video class="wp-video-shortcode" width="640" height="360" preload="metadata" controls="controls"><source type="video/mp4" src="https://raw.githubusercontent.com/lujun9972/baby/master/家/images/Baby唱母亲2.mp4" /></video>
+<video class="wp-video-shortcode" width="640" height="360" preload="metadata" controls="controls"><source type="video/mp4" src="https://raw.githubusercontent.com/lujun9972/baby/master/家/images/Baby唱母亲3.mp4" /></video>
+<video class="wp-video-shortcode" width="640" height="360" preload="metadata" controls="controls"><source type="video/mp4" src="https://raw.githubusercontent.com/lujun9972/baby/master/家/images/Baby唱母亲4.mp4" /></video>
+#+end_export
