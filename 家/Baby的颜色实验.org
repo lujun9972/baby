@@ -1,3 +1,5 @@
+#+BLOG: baby.lujun9972.win
+#+POSTID: 91
 #+TITLE: Baby的颜色实验
 #+AUTHOR: lujun9972
 #+TAGS: 家
