@@ -3,7 +3,7 @@
 #+TITLE: 20190714长颈鹿美语
 #+AUTHOR: lujun9972
 #+TAGS: 幼儿园
-#+DATE: [2019-09-16 一 20:03]
+#+DATE: [2019-07-14 日 20:03]
 #+LANGUAGE:  zh-CN
 #+STARTUP:  inlineimages
 #+OPTIONS:  H:6 num:nil toc:t \n:nil ::t |:t ^:nil -:nil f:t *:t <:nil
