@@ -1,0 +1,16 @@
+#+BLOG: baby.lujun9972.win
+#+POSTID: 99
+#+TITLE: 巨大的篮球
+#+AUTHOR: lujun9972
+#+TAGS: 游乐场
+#+DATE: [2019-09-15 日 12:17]
+#+LANGUAGE:  zh-CN
+#+STARTUP:  inlineimages
+#+OPTIONS:  H:6 num:nil toc:t \n:nil ::t |:t ^:nil -:nil f:t *:t <:nil
+
+看来Baby的排球技术，略有小成了，啥球都能当篮球来拍
+
+#+begin_export html
+<video class="wp-video-shortcode" width="640" height="360" preload="metadata" controls="controls"><source type="video/mp4" src="https://raw.githubusercontent.com/lujun9972/baby/master/游乐场/images/巨大的篮球1.mp4" /></video>
+<video class="wp-video-shortcode" width="640" height="360" preload="metadata" controls="controls"><source type="video/mp4" src="https://raw.githubusercontent.com/lujun9972/baby/master/游乐场/images/巨大的篮球2.mp4" /></video>
+#+end_export
