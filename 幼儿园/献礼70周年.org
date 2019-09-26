@@ -13,6 +13,6 @@ Baby的幼儿园献礼70周年也是拼了.
 [[https://raw.githubusercontent.com/lujun9972/baby/master/幼儿园/images/献礼70周年1.jpg]]
 
 #+begin_export html
-  <video class="wp-video-shortcode" width="640" height="360" preload="metadata" controls="controls"><source type="video/mp4" src="https://raw.githubusercontent.com/lujun9972/baby/master/幼儿园/images/献礼70周年1.mp4" /><a href="https://raw.githubusercontent.com/lujun9972/baby/master/幼儿园/images/献礼70周年1.mp4">https://raw.githubusercontent.com/lujun9972/baby/master/幼儿园/images/献礼70周年1.mp4</a></video>
+  <video class="wp-video-shortcode" width="360" height="640" preload="metadata" controls="controls"><source type="video/mp4" src="https://raw.githubusercontent.com/lujun9972/baby/master/幼儿园/images/献礼70周年1.mp4" /><a href="https://raw.githubusercontent.com/lujun9972/baby/master/幼儿园/images/献礼70周年1.mp4">https://raw.githubusercontent.com/lujun9972/baby/master/幼儿园/images/献礼70周年1.mp4</a></video>
   <video class="wp-video-shortcode" width="640" height="360" preload="metadata" controls="controls"><source type="video/mp4" src="https://raw.githubusercontent.com/lujun9972/baby/master/幼儿园/images/献礼70周年2.mp4" /><a href="https://raw.githubusercontent.com/lujun9972/baby/master/幼儿园/images/献礼70周年2.mp4">https://raw.githubusercontent.com/lujun9972/baby/master/幼儿园/images/献礼70周年2.mp4</a></video>
 #+end_export
