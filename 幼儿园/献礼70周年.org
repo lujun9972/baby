@@ -1,0 +1,18 @@
+#+BLOG: baby.lujun9972.win
+#+POSTID: 109
+#+TITLE: 献礼70周年
+#+AUTHOR: lujun9972
+#+TAGS: 幼儿园
+#+DATE: [2019-09-26 四 22:23]
+#+LANGUAGE:  zh-CN
+#+STARTUP:  inlineimages
+#+OPTIONS:  H:6 num:nil toc:t \n:nil ::t |:t ^:nil -:nil f:t *:t <:nil
+
+Baby的幼儿园献礼70周年也是拼了.
+
+[[https://raw.githubusercontent.com/lujun9972/baby/master/幼儿园/images/献礼70周年1.jpg]]
+
+#+begin_export html
+  <video class="wp-video-shortcode" width="640" height="360" preload="metadata" controls="controls"><source type="video/mp4" src="https://raw.githubusercontent.com/lujun9972/baby/master/幼儿园/images/献礼70周年1.mp4" /><a href="https://raw.githubusercontent.com/lujun9972/baby/master/幼儿园/images/献礼70周年1.mp4">https://raw.githubusercontent.com/lujun9972/baby/master/幼儿园/images/献礼70周年1.mp4</a></video>
+  <video class="wp-video-shortcode" width="640" height="360" preload="metadata" controls="controls"><source type="video/mp4" src="https://raw.githubusercontent.com/lujun9972/baby/master/幼儿园/images/献礼70周年2.mp4" /><a href="https://raw.githubusercontent.com/lujun9972/baby/master/幼儿园/images/献礼70周年2.mp4">https://raw.githubusercontent.com/lujun9972/baby/master/幼儿园/images/献礼70周年2.mp4</a></video>
+#+end_export
