@@ -1,0 +1,21 @@
+#+BLOG: baby.lujun9972.win
+#+POSTID: 118
+#+TITLE: 冰雕展
+#+AUTHOR: lujun9972
+#+TAGS: 公园
+#+DATE: [2019-10-04 13:42]
+#+LANGUAGE:  zh-CN
+#+STARTUP:  inlineimages
+#+OPTIONS:  H:6 num:nil toc:t \n:nil ::t |:t ^:nil -:nil f:t *:t <:nil
+
+今天一家人去参观某房产公司办的冰雕展，其实也不大，就两个房间没多少冰雕。不过Baby玩的还是很开心
+
+https://raw.githubusercontent.com/lujun9972/baby/master/公园/images/冰雕展1.jpg
+https://raw.githubusercontent.com/lujun9972/baby/master/公园/images/冰雕展2.jpg
+https://raw.githubusercontent.com/lujun9972/baby/master/公园/images/冰雕展3.jpg
+
+
+#+begin_export html
+<video class="wp-video-shortcode" width="360" height="640" preload="metadata" controls="controls"><source type="video/mp4" src="https://raw.githubusercontent.com/lujun9972/baby/master/公园/images/冰雕展.mp4" /><a href="https://raw.githubusercontent.com/lujun9972/baby/master/公园/images/冰雕展.mp4">https://raw.githubusercontent.com/lujun9972/baby/master/公园/images/冰雕展.mp4</a></video>
+#+end_export
+
