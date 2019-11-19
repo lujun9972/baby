@@ -1,0 +1,19 @@
+#+BLOG: baby.lujun9972.win
+#+POSTID: 129
+#+TITLE: 鹅鹅鹅新诗
+#+AUTHOR: lujun9972
+#+TAGS: 家
+#+DATE: [2019-11-19 二 21:19]
+#+LANGUAGE:  zh-CN
+#+STARTUP:  inlineimages
+#+OPTIONS:  H:6 num:nil toc:t \n:nil ::t |:t ^:nil -:nil f:t *:t <:nil
+
+Baby与爷爷一起新做的诗
+#+begin_example
+  鹅鹅鹅，
+  曲项向天哭，
+  白毛拔光光，
+  红掌变肉汤，
+  每天喝一碗，
+  皮肤白又胖。
+#+end_example
