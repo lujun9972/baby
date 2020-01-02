@@ -1,0 +1,20 @@
+#+BLOG: baby.lujun9972.win
+#+POSTID: 140
+#+TITLE: Baby的英文自我介绍
+#+AUTHOR: lujun9972
+#+TAGS: 家
+#+DATE: [2020-11-03 22:31]
+#+LANGUAGE:  zh-CN
+#+STARTUP:  inlineimages
+#+OPTIONS:  H:6 num:nil toc:t \n:nil ::t |:t ^:nil -:nil f:t *:t <:nil
+
+
+#+begin_export html
+  <video class="wp-video-shortcode" width="360" height="640" preload="metadata" controls="controls"><source type="video/mp4" src="https://raw.githubusercontent.com/lujun9972/baby/master/家/images/Baby的英文自我介绍1.mp4" /><a href="https://raw.githubusercontent.com/lujun9972/baby/master/家/images/Baby的英文自我介绍1.mp4">https://raw.githubusercontent.com/lujun9972/baby/master/家/images/Baby的英文自我介绍1.mp4</a></video>
+
+  <video class="wp-video-shortcode" width="360" height="640" preload="metadata" controls="controls"><source type="video/mp4" src="https://raw.githubusercontent.com/lujun9972/baby/master/家/images/Baby的英文自我介绍2.mp4" /><a href="https://raw.githubusercontent.com/lujun9972/baby/master/家/images/Baby的英文自我介绍2.mp4">https://raw.githubusercontent.com/lujun9972/baby/master/家/images/Baby的英文自我介绍2.mp4</a></video>
+
+  <video class="wp-video-shortcode" width="360" height="640" preload="metadata" controls="controls"><source type="video/mp4" src="https://raw.githubusercontent.com/lujun9972/baby/master/家/images/Baby的英文自我介绍3.mp4" /><a href="https://raw.githubusercontent.com/lujun9972/baby/master/家/images/Baby的英文自我介绍3.mp4">https://raw.githubusercontent.com/lujun9972/baby/master/家/images/Baby的英文自我介绍3.mp4</a></video>
+
+  <video class="wp-video-shortcode" width="360" height="640" preload="metadata" controls="controls"><source type="video/mp4" src="https://raw.githubusercontent.com/lujun9972/baby/master/家/images/Baby的英文自我介绍4.mp4" /><a href="https://raw.githubusercontent.com/lujun9972/baby/master/家/images/Baby的英文自我介绍4.mp4">https://raw.githubusercontent.com/lujun9972/baby/master/家/images/Baby的英文自我介绍4.mp4</a></video>
+#+end_export
