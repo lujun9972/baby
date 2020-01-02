@@ -1,0 +1,22 @@
+#+BLOG: baby.lujun9972.win
+#+POSTID: 138
+#+TITLE: 亲子运动会
+#+AUTHOR: lujun9972
+#+TAGS: 幼儿园
+#+DATE: [2020-01-02 四 22:15]
+#+LANGUAGE:  zh-CN
+#+STARTUP:  inlineimages
+#+OPTIONS:  H:6 num:nil toc:t \n:nil ::t |:t ^:nil -:nil f:t *:t <:nil
+
+今天第一次参加Baby的亲子运动会，有点意思
+
+[[https://raw.githubusercontent.com/lujun9972/baby/master/幼儿园/images/中班亲子运动会1.jpg]]
+[[https://raw.githubusercontent.com/lujun9972/baby/master/幼儿园/images/中班亲子运动会2.jpg]]
+[[https://raw.githubusercontent.com/lujun9972/baby/master/幼儿园/images/中班亲子运动会3.jpg]]
+[[https://raw.githubusercontent.com/lujun9972/baby/master/幼儿园/images/中班亲子运动会4.jpg]]
+
+
+
+#+begin_export html
+  <video class="wp-video-shortcode" width="640" height="360" preload="metadata" controls="controls"><source type="video/mp4" src="https://raw.githubusercontent.com/lujun9972/baby/master/幼儿园/images/中班亲子运动会.mp4" /><a href="https://raw.githubusercontent.com/lujun9972/baby/master/幼儿园/images/中班亲子运动会.mp4">https://raw.githubusercontent.com/lujun9972/baby/master/幼儿园/images/中班亲子运动会.mp4</a></video>
+#+end_export
