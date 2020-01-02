@@ -1,0 +1,13 @@
+#+BLOG: baby.lujun9972.win
+#+POSTID: 135
+#+TITLE: Baby换牙了
+#+AUTHOR: lujun9972
+#+TAGS: 家
+#+DATE: [2019-12-16 一 20:08]
+#+LANGUAGE:  zh-CN
+#+STARTUP:  inlineimages
+#+OPTIONS:  H:6 num:nil toc:t \n:nil ::t |:t ^:nil -:nil f:t *:t <:nil
+
+今天Baby终于掉了第一颗牙～～～～～
+
+[[https://raw.githubusercontent.com/lujun9972/baby/master/家/images/Baby掉了第一颗牙.jpg]]
